@@ -1,8 +1,8 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
-import './index.css'
+import './index.scss'
 import Navbar from './components/navbar/NavbarComp'
-import './main.css'
+import './main.scss'
 import Footer from './components/footer/footer'
 
 

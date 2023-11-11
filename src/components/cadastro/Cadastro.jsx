@@ -1,5 +1,5 @@
 import React, {Component,useState} from 'react'
-import  '../../main.css'
+import  '../../main.scss'
 import Input from '../input/index'
 import Botao from '../botao/index'
 import { Navbar, Nav } from "react-bootstrap";
