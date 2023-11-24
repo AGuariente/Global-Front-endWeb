@@ -17,23 +17,11 @@ function Home() {
       <div class="container">
         <h2>Quem somos</h2>
         <p>
-          A PassBy é uma empresa inovadora que está revolucionando a maneira
-          como lidamos com estacionamentos no Brasil. Nossa missão é eliminar a
-          necessidade de tickets de papel e simplificar a experiência de
-          estacionar, tornando-a mais eficiente, sustentável e conveniente para
-          todos. Utilizando a tecnologia NFC (Near Field Communication),
-          oferecemos aos motoristas a liberdade de acessar estacionamentos sem a
-          burocracia de pegar um ticket físico.
+        Somos a VitalData, uma equipe dedicada à análise contínua de dados de saúde. Nossa missão é implementar um sistema inovador que monitora em tempo real informações cruciais dos pacientes. Através da vigilância dos sinais vitais, padrões de sono, atividade física e outros indicadores relevantes, buscamos oferecer um acompanhamento abrangente e preciso, permitindo uma visão holística da saúde individual.
         </p>
-
+        Nosso compromisso reside na criação de soluções tecnológicas que capacitam profissionais de saúde a tomarem decisões informadas e ágeis. Ao fornecer acesso imediato a dados precisos e em tempo real, buscamos não apenas melhorar a qualidade dos cuidados, mas também promover uma abordagem preventiva, antecipando potenciais problemas de saúde e facilitando intervenções proativas para uma vida mais saudável e equilibrada.
         <p>
-          Com a PassBy, você pode simplesmente "passar por" e aproveitar o
-          estacionamento sem se preocupar com filas ou papelada. Estamos
-          comprometidos em promover um futuro mais verde, ao mesmo tempo em que
-          proporcionamos uma solução tecnológica de ponta para estacionamentos
-          em todo o país. Junte-se a nós na jornada para um estacionamento mais
-          inteligente, sem papel e com menos impacto ambiental. A PassBy,
-          conectando pessoas à mobilidade do futuro.
+          .
         </p>
       </div>
 
@@ -46,21 +34,11 @@ function Home() {
       <div class="container">
         <h2>O que fazemos</h2>
         <p>
-          Na PassBy, tornamos a experiência de estacionamento incrivelmente
-          simples e amigável ao meio ambiente. Utilizando a tecnologia NFC,
-          permitimos que você armazene seu ticket virtualmente em seu celular,
-          eliminando a necessidade de papel e as incômodas filas para pagamento
+        Na VitalData, nossa expertise reside na implementação de sistemas avançados de monitoramento de saúde. Desenvolvemos e integramos tecnologias de ponta para capturar, analisar e interpretar dados vitais dos pacientes em tempo real. Através de algoritmos inteligentes e interfaces intuitivas, oferecemos um panorama detalhado da saúde, permitindo que profissionais médicos atuem com precisão e rapidez no diagnóstico e tratamento.
         </p>
 
         <p>
-          Se você se encontrar em uma área sem cobertura de rede, não se
-          preocupe - nosso sistema automaticamente salva seu ticket e o envia
-          assim que a conexão for restabelecida. Além disso, na hora de sair,
-          nossa tecnologia de reconhecimento de placa por câmera agiliza o
-          processo de saída, tornando a experiência de estacionamento mais
-          eficiente e conveniente do que nunca. Na PassBy, estamos moldando o
-          futuro dos estacionamentos, tornando-o mais inteligente, sustentável e
-          acessível para todos.
+        Além disso, nossa equipe se dedica à pesquisa contínua, aprimorando constantemente nossos sistemas para garantir a mais alta qualidade na coleta e interpretação de dados de saúde. Ao abraçar a inovação e a integridade dos dados, buscamos não apenas oferecer informações confiáveis, mas também impulsionar avanços significativos na saúde digital, tornando-a acessível e valiosa para todos os usuários e profissionais envolvidos.
         </p>
       </div>
 
@@ -71,25 +49,13 @@ function Home() {
       </Parallax>
 
       <div class="container">
-        <h2>Tecnologia NFC</h2>
+        <h2>Nossa tecnologia</h2>
         <p>
-          A tecnologia NFC (Near Field Communication) desempenha um papel
-          fundamental na simplificação da comunicação e na criação de
-          experiências mais eficientes e convenientes em nossa vida cotidiana.
-          Com um simples toque ou aproximação entre dispositivos habilitados
-          para NFC, informações podem ser compartilhadas instantaneamente. Isso
-          é particularmente valioso em setores como pagamentos móveis, onde os
-          consumidores podem realizar transações de forma segura e rápida apenas
-          aproximando seus smartphones de um terminal NFC.
+        Na VitalData, nossa tecnologia é a espinha dorsal da revolução na análise de dados de saúde. Utilizamos um sistema integrado de última geração, combinando sensores avançados e algoritmos de aprendizado de máquina para coletar e processar uma ampla gama de informações. Essa abordagem nos permite monitorar em tempo real sinais vitais, padrões de sono, atividade física e outros indicadores cruciais, oferecendo uma visão abrangente do bem-estar dos pacientes.
         </p>
 
         <p>
-          Além disso, o NFC é amplamente utilizado em cartões de acesso,
-          controle de transporte público e até mesmo no armazenamento de
-          informações em etiquetas NFC, tornando possível a automação de tarefas
-          e a criação de experiências personalizadas com facilidade. Em resumo,
-          a tecnologia NFC está transformando a maneira como interagimos com o
-          mundo digital e físico, tornando-a mais eficiente e conveniente.
+        Nossa plataforma é construída com foco na precisão e na facilidade de uso. Com interfaces intuitivas e análises profundas, fornecemos ferramentas poderosas para profissionais de saúde tomarem decisões informadas. Investimos continuamente em pesquisa e desenvolvimento para garantir que nossa tecnologia permaneça na vanguarda, impulsionando a saúde digital e oferecendo soluções confiáveis e eficazes para a análise contínua de dados de saúde.
         </p>
       </div>
     </div>
