@@ -5,7 +5,7 @@ import Home from "../home/Home";
 import Login from '../login/Login';
 import Protect from './ProtectedRoutes';
 import Cadastro from '../cadastro/Cadastro';
-import './Navbar.css'
+import './Navbar.scss'
 
 export default class NavbarComp extends Component {
   render() {

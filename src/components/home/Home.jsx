@@ -1,5 +1,5 @@
 import React from "react";
-import "./home.css";
+import "./home.scss";
 import { Parallax } from "react-parallax";
 import Parking from "../images/parking.png";
 import Pass from "../images/pass.png";

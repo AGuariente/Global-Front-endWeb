@@ -1,5 +1,5 @@
 import React, {Component} from 'react'
-import './Login.css'
+import './Login.scss'
 import Botao from '../botao';
 import Input from '../input';
 import { Navbar, Nav } from "react-bootstrap";
