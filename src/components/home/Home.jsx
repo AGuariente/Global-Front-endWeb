@@ -10,7 +10,7 @@ function Home() {
     <div className="Home">
       <Parallax strength={300} bgImage={Parking}>
         <div className="content">
-          <div className="text-content">PASSBY</div>
+          <div className="text-content">VitalData</div>
         </div>
       </Parallax>
 
@@ -39,7 +39,7 @@ function Home() {
 
       <Parallax strength={300} bgImage={Pass}>
         <div className="content">
-          <div className="text-content">PASSBY</div>
+          <div className="text-content">VitalData</div>
         </div>
       </Parallax>
 
@@ -66,7 +66,7 @@ function Home() {
 
       <Parallax strength={300} bgImage={NFC}>
         <div className="content">
-          <div className="text-content">PASSBY</div>
+          <div className="text-content">VitalData</div>
         </div>
       </Parallax>
 

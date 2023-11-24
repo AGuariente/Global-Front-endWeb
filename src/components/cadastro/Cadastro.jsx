@@ -52,44 +52,44 @@ return (
   <div className='Container-center'>
     <div className='Container'>
       <form>
-        <h1>Faça o seu Cadastro 👋</h1>
+        <h1>Cadatro - VitalData</h1>
         <Input
           name='nome'
-          placeholder='Digite o seu nome'
+          placeholder='Nome'
           onChange={this.handleChange}
           type='text'
         />
         <Input
           name='telefone'
-          placeholder='Digite o seu telefone'
+          placeholder='Telefone'
           onChange={this.handleChange}
           type='number'
         />
         <Input
           name='email'
-          placeholder='Digite o seu e-mail'
+          placeholder='E-mail'
           onChange={this.handleChange}
           type='email'
         />
         <Input
           name='senha'
-          placeholder='Digite a sua senha'
+          placeholder='Digite a senha'
           onChange={this.handleChange}
           type='password'
         />
         <Input
           name='confirmarSenha'
-          placeholder='Confirme a sua senha'
+          placeholder='Confirme a senha'
           onChange={this.handleChange}
           type='password'
         />
         <Botao
           type='button'
-          text='Efetuar Cadastro!'
+          text='Concluir'
           onClick={this.handleSubmit}
         />
         <div className='SubContainerSign'>  
-          <p>Já possui conta?</p><Nav.Link className="NavLinks"  href="/Login">Vá para o Login👍</Nav.Link>
+          <p>Já possui conta?</p><Nav.Link className="NavLinks"  href="/Login">Login</Nav.Link>
         </div>
         </form>
     </div>

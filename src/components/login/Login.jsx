@@ -53,7 +53,7 @@ export default class Login extends Component {
         return(
             <div className= "login_body">
                 <div className="login">
-                    <h1>Login</h1>
+                    <h1>Login - VitalData</h1>
 
                     <label htmlFor='email'>E-mail</label>
                     <Input 

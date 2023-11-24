@@ -1,23 +1,31 @@
-.HeaderWrapper {
-  display: flex;
-  width: 100%;
-  justify-content: space-between;
-  flex-direction: row;
-  align-items: center;
-  background-color: #e5e5e5;
-  height: 5em;
-  color: #000;
-  padding: 0 10%;
-  border-radius: 10px;
+/* Navbar.css */
+
+/* Estilos para a barra de navegação */
+.Navbar {
+  background-color: #333; /* Cor de fundo da barra de navegação */
+  padding: 10px 20px; /* Espaçamento interno */
+  display: flex; /* Para alinhar os itens */
+  justify-content: space-between; /* Para separar os itens */
+  align-items: center; /* Para alinhar verticalmente */
 }
 
+/* Estilos para a parte esquerda do Navbar (logo) */
 .Logo {
-  font-family: "Roboto Condensed", sans-serif;
-  font-size: 38px;
-  margin: 0;
+  color: #fff; /* Cor do texto do logo */
+  font-size: 24px; /* Tamanho da fonte */
+  font-weight: bold; /* Peso da fonte */
 }
 
+/* Estilos para a parte direita do Navbar (links) */
 .NavLinks {
-    text-decoration: none;
-    color: #000;
+  color: #; /* Cor dos links */
+  text-decoration: none; /* Remove sublinhado padrão */
+  font-size: 18px; /* Tamanho da fonte */
+}
+
+/* Estilos para os links quando estão em foco ou hover */
+.NavLinks:hover,
+.NavLinks:focus {
+  color: #0151a0; /* Cor dos links ao passar o mouse ou foco */
+  text-decoration: none; /* Remove sublinhado */
 }
